@@ -4,7 +4,7 @@ It is a simple joke generator regarding Almighty Chuck Norris, w/ data been fed 
 </p>
 
 <p align="center">
-    <img alt="running-app-screenshot" src=".gitassets/imgjokegen.png" width="50%" />
+    <img alt="running-app-screenshot" src=".github/imgjokegen.png" width="50%" />
 </p>
 
 ## Available Scripts
